@@ -10,7 +10,22 @@ fun main() {
     val area = areaDelCirculo(2.5)
     println("El area del circulo es: $area")
     // si pasas dos variables, podes pasarlas en el orden que te pinte!! Kotlin se da cuenta!! KOTLIN GOD
+
+    val resultado = cuadrado(5.0)
+    println(resultado)
+
 }
+
+// one line funcion!!! wtfff amazing
+fun cuadrado (numero: Double) = numero * numero
+
+
+/* asi seria lo comun
+fun cuadrado(numero: Double): Double {
+    return numero * numero
+}
+*/
+
 
 fun mostrarFecha(){
     val fechaLocal = LocalDate.now()
