@@ -9,7 +9,7 @@ This is a dummy project in which I'll be trying out Kotlin programming language 
 
 > - `savingscalculator`
 >
->  This will be a savings calculator app based on current earnings + applying Uruguay taxes to salary. You'll see more Scratch files than expected haha.
+>  This will be a savings calculator app based on current earnings + applying Uruguay taxes to salary.
 
 ---
 
