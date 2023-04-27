@@ -6,4 +6,5 @@ fun main() {
     println("area rectangulo = ${miRectangulo.obtenerArea()}")
 
     println(miRectangulo.esCuadrado)
+    println(miRectangulo.grosor)
 }

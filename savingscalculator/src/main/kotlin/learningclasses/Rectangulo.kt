@@ -1,7 +1,7 @@
 package learningclasses
 
 class Rectangulo(var ancho: Double, var alto: Double) {
-    constructor(rectangulo: Rectangulo): this(rectangulo.ancho, rectangulo.alto,rectangulo.grosor)
+    constructor(rectangulo: Rectangulo): this(rectangulo.ancho, rectangulo.alto)
 
     // estos dos van juntos wtfff
     val esCuadrado: Boolean
