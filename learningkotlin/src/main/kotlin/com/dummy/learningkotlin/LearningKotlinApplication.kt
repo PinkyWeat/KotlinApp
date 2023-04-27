@@ -1,4 +1,4 @@
-package com.dummy.savingscalculator
+package com.dummy.learningkotlin
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
