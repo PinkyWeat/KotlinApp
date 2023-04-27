@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/KotlinApp.iml" filepath="$PROJECT_DIR$/.idea/KotlinApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/savingscalculator/src/classes/classes.iml" filepath="$PROJECT_DIR$/savingscalculator/src/classes/classes.iml" />
     </modules>
   </component>
 </project>
