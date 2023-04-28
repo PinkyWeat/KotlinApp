@@ -7,9 +7,12 @@ This is a dummy project in which I'll be trying out Kotlin programming language 
 
 ## File Description
 
-> - `savingscalculator`
->
->  This will be a savings calculator app based on current earnings + applying Uruguay taxes to salary.
+### - `learning`
+    
+> Directory contains several exercises I did based on LinkedIn Learning course `Kotlin Esencial`
+     
+### - `calculator`
+> Directory holds my newest creation, an app which calculates the liquid salary of a person in Uruguay, it currently only works when the person does not have children. **We'll continue to update it**.
 
 ---
 
